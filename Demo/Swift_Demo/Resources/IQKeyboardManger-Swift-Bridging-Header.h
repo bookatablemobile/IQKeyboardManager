@@ -9,8 +9,7 @@
 #ifndef IQKeyboardManager_IQKeyboardManger_Swift_Bridging_Header_h_h
 #define IQKeyboardManager_IQKeyboardManger_Swift_Bridging_Header_h_h
 
-#import "IQDropDownTextField.h"
 #import "ColorPickerTextField.h"
-#import "YYTextView.h"
+#import <YYText/YYTextView.h>
 
 #endif
